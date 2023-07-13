@@ -1,0 +1,15 @@
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\bin\Debug\net5.0\CalculateAgeInYearsAnMonths.exe
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\bin\Debug\net5.0\CalculateAgeInYearsAnMonths.deps.json
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\bin\Debug\net5.0\CalculateAgeInYearsAnMonths.runtimeconfig.json
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\bin\Debug\net5.0\CalculateAgeInYearsAnMonths.runtimeconfig.dev.json
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\bin\Debug\net5.0\CalculateAgeInYearsAnMonths.dll
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\bin\Debug\net5.0\ref\CalculateAgeInYearsAnMonths.dll
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\bin\Debug\net5.0\CalculateAgeInYearsAnMonths.pdb
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\obj\Debug\net5.0\CalculateAgeInYearsAnMonths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\obj\Debug\net5.0\CalculateAgeInYearsAnMonths.AssemblyInfoInputs.cache
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\obj\Debug\net5.0\CalculateAgeInYearsAnMonths.AssemblyInfo.cs
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\obj\Debug\net5.0\CalculateAgeInYearsAnMonths.csproj.CoreCompileInputs.cache
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\obj\Debug\net5.0\CalculateAgeInYearsAnMonths.dll
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\obj\Debug\net5.0\ref\CalculateAgeInYearsAnMonths.dll
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\obj\Debug\net5.0\CalculateAgeInYearsAnMonths.pdb
+C:\Users\Sourabh Sapkade\source\repos\CalculateAgeInYearsAnMonths\CalculateAgeInYearsAnMonths\obj\Debug\net5.0\CalculateAgeInYearsAnMonths.genruntimeconfig.cache
